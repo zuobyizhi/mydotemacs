@@ -1,0 +1,15 @@
+;; -*- lisp -*-
+
+(("CCTV5节目表" . "https://www.baidu.com/baidu?tn=monline_3_dg&ie=utf-8&wd=cctv5%E8%8A%82%E7%9B%AE%E8%A1%A8")
+ ("shibor" . "http://www.chinamoney.com.cn/index.html")
+ ("soroc" . "http://www.gurufocus.com/StockBuy.php?GuruName=George+Soros")
+ ("广东体育节目表" . "http://www.tvmao.com/program/GDTV-GDTV3-w6.html")
+ ("开发_安卓搜索" . "https://developer.android.com/index.html")
+ ("微博_个人主页" . "http://weibo.com/zuob1zhi/home?topnav=1&wvr=6")
+ ("贴吧_亚人吧" . "http://tieba.baidu.com/f?kw=%E4%BA%9A%E4%BA%BA&fr=wwwt")
+ ("一拳超人" . "http://manhua.dmzj.com/yiquanchaoren")
+ ("一淳" . "http://weibo.com/yichunjun?refer_flag=1001030101_&is_all=1")
+ ("安卓搜索" . "https://developer.android.com/reference/packages.html")
+ ("石油行业新闻" . "http://news.cnpc.com.cn/hynews/index.shtml")
+ ("股市日历" . "http://data.eastmoney.com/gsrl/#")
+ ("领先指标" . "http://stockcharts.com/h-sc/ui?s=$HSCEI:$SPX&p=W&yr=5&mn=0&dy=0&id=p99607518518"))
